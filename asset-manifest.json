@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-crud-frontend/static/css/main.b4a2a007.chunk.css",
+    "main.js": "/react-crud-frontend/static/js/main.d5bcba97.chunk.js",
+    "main.js.map": "/react-crud-frontend/static/js/main.d5bcba97.chunk.js.map",
+    "runtime-main.js": "/react-crud-frontend/static/js/runtime-main.7ddd9cf8.js",
+    "runtime-main.js.map": "/react-crud-frontend/static/js/runtime-main.7ddd9cf8.js.map",
+    "static/css/2.5a10f4ff.chunk.css": "/react-crud-frontend/static/css/2.5a10f4ff.chunk.css",
+    "static/js/2.a0643e0a.chunk.js": "/react-crud-frontend/static/js/2.a0643e0a.chunk.js",
+    "static/js/2.a0643e0a.chunk.js.map": "/react-crud-frontend/static/js/2.a0643e0a.chunk.js.map",
+    "index.html": "/react-crud-frontend/index.html",
+    "static/css/2.5a10f4ff.chunk.css.map": "/react-crud-frontend/static/css/2.5a10f4ff.chunk.css.map",
+    "static/css/main.b4a2a007.chunk.css.map": "/react-crud-frontend/static/css/main.b4a2a007.chunk.css.map",
+    "static/js/2.a0643e0a.chunk.js.LICENSE.txt": "/react-crud-frontend/static/js/2.a0643e0a.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/react-crud-frontend/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/logo.8f60ea25.png": "/react-crud-frontend/static/media/logo.8f60ea25.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ddd9cf8.js",
+    "static/css/2.5a10f4ff.chunk.css",
+    "static/js/2.a0643e0a.chunk.js",
+    "static/css/main.b4a2a007.chunk.css",
+    "static/js/main.d5bcba97.chunk.js"
+  ]
+}
